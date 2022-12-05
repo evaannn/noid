@@ -29,4 +29,7 @@ We recommend using either a JSON file or a metatable for storing information, as
 
 # Recorded Info
 
-Currently, both databases now amount to around 2.9 GB each, with over 9,601 lines.
+~~Currently, both databases now amount to around [REDACTED] GB each, with over [REDACTED] lines.~~
+Won't be disclosing all the recorded info for security purposes but its safe to say enough traffic and info was caught
+Apparently people really like searching PornHub and XNXX/XVideos for some reason
+
