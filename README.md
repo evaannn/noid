@@ -1,4 +1,7 @@
 # NOID
+> **Note**
+> Credits to: timecop, stdclol, v9z and 0x50 
+
 No Idea - WPA2 packet deauth and injection POC for KCCIS Access Point [SKCIS2]
 
 # NOID exploit explanation
